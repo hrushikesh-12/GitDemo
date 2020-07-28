@@ -13,6 +13,7 @@ public class day1
 	public void Demo()
 	{
 		System.out.println("hello");
+		System.out.println("Hrushikesh");
 	}
 	@AfterSuite
 	public void afsuite()
@@ -23,6 +24,7 @@ public class day1
 	public void SecondTest()
 	{
 		System.out.println("bye");
+		System.out.println("Harke");
 	}
 
 }
